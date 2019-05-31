@@ -1,0 +1,15 @@
+{
+	"definitions": {
+		"Award": {
+			"properties": {
+                "valueVariability": {
+                    "title": "Value variability",
+                    "description": "The parties involved in the award have agreed on the variability of the value. This field describes whether or not the value may vary. If the value may vary, this field describes the way the value may vary.",
+                    "type": ["string", "null"],
+                    "codelist": "valueVariability.csv",
+                    "openCodelist": true
+                }
+			}
+		}
+	}
+}

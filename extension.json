@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en": "Value variability",
+    "fr": "Forme de prix",
+    "es": "Variabilidad del valor"
+  },
+  "description": {
+    "en": "Possibility to describe the possible variation of the value of the award after the signature of the contract.",
+    "fr": "Possibilité d'indiquer la forme du prix du marché, c'est-à-dire si le prix peut évoluer après la signature du contrat.",
+    "es": "Posibilidad de indicar si el valor de la adjudicación puede cambiar después de firmar el contrato."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/ColinMaudry/value-variability-extension#ocds-extension-for-value-variability",
+    "fr": "https://github.com/ColinMaudry/value-variability-extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "codelists": [
+    "valueVariability"
+  ],
+  "compatibility": [
+    "1.1"
+  ],
+  "dependencies": []
+}
